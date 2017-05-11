@@ -5,18 +5,18 @@
 * Add Dashboard Page
 
 Dashboard page has:
-   * Name
-   * Image
+   * To-Do List
+   * Time Tracking
+   * Notepad
 
-<!--##Layout and Basic Styling-->
-<!--* Create our header and footer partials-->
-<!--* Add in Bootstrap-->
+##Layout and Basic Styling
+* Create our header and footer partials
+* Add in Bootstrap
 
-<!--##Creating New Campgrounds-->
-<!--* Setup new campground POST route-->
-<!--* Add in body-parser-->
-<!--* Setup route to show form-->
-<!--* Add basic unstyled form-->
+##Creating Dashboard Page
+* Make divs for items on page
+* Add in body-parser
+* Setup route to time tracking page
 
 <!--##Style the campgrounds page-->
 <!--* Add a better header/title-->
