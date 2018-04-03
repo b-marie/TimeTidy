@@ -1,6 +1,6 @@
-#TimeTidy
+# TimeTidy
 
-##Initial Setup
+## Initial Setup
 * Add Landing Page
 * Add Dashboard Page
 
@@ -9,11 +9,11 @@ Dashboard page has:
    * Time Tracking
    * Notepad
 
-##Layout and Basic Styling
+## Layout and Basic Styling
 * Create our header and footer partials
 * Add in Bootstrap
 
-##Creating Dashboard Page
+## Creating Dashboard Page
 * Make divs for items on page
 * Add in body-parser
 * Setup route to time tracking page
